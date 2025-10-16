@@ -61,7 +61,7 @@ particlesJS("particles-js", {
         type: "image",
         stroke: { width: 0, color: "#000000" },
         polygon: { nb_sides: 5 },
-        image: { src: "files/snowflake.png", width: 100, height: 100 },
+        image: { src: "snowflake.png", width: 100, height: 100 },
     },
  
     opacity: {
