@@ -1,11 +1,12 @@
- New Year Countdown
+# New Year Countdown 🎆 
 
- Description 
+### Live Countdown to New Year's Day
+## Description
  
 The New Year Countdown application is a fun and interactive web tool that displays a live countdown to January 1st.  
 It helps users see the time remaining until the New Year in real time, adding excitement and anticipation as the date approaches.
 
-About the Application
+## About the Application
 
 This application shows the countdown in days, hours, minutes, and seconds until the next January 1st.  
 As time changes, the countdown updates automatically. The page also features an animated snowfall background (via particles.js) and 
@@ -14,15 +15,15 @@ optional background music that users can toggle on or off.
 The goal of this project was to create a dynamic UI that works with real-time data and updates continuously using JavaScript.
 The countdown is visually styled to match the festive theme and provides a simple, intuitive user experience.
 
-Live demo:  
+## Live demo:  
 
 https://newyearcountdownday.netlify.app/
 
-Screenshot
+## Screenshot
 
 ![Countdown App Screenshot](./countdown.png)
 
-Technologies Used
+## Technologies Used
 
 - JavaScript 
 - HTML  
@@ -30,7 +31,7 @@ Technologies Used
 - GSAP (GreenSock Animation Platform)
 - particles.js
 
-How to Run the Project
+## How to Run the Project
 
 This is a frontend-only app — no installation required.  
 
@@ -44,7 +45,7 @@ git clone https://github.com/ktrn-s/new-year-countdown.git
 
 That’s it! The countdown will start automatically.
 
-Challenges and Learnings
+## Challenges and Learnings
  
 One challenge in this project was calculating the time difference between the current moment and the target date (January 1st).
 
