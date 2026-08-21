@@ -65,15 +65,15 @@ h1 {
 
 
 .block {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 h4 {
-  font-family: "Montserrat", sans-serif;
-  font-size: 22px;
-  color: #263556;
+    font-family: "Montserrat", sans-serif;
+    font-size: 22px;
+    color: #263556;
 }
 
 .day,
